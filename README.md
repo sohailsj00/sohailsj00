@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sohailsj00
-- 👀 I’m interested in Devops and cloud computing
-- 🌱 I’m currently learning Devops
+- Sohail Jamadar| MCA student, coding enthusiast | Building cool stuff with Java, Python, and web technologies | Let's connect and create!
 
 <!---
 sohailsj00/sohailsj00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
